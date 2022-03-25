@@ -1,0 +1,51 @@
+{
+  "name": "frontend-pack-js",
+  "displayName": "Frontend Pack(JS)",
+  "description": "",
+  "publisher": "bcakyz",
+  "icon": "image/js.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "burkeholland.simple-react-snippets",
+    "xabikos.javascriptsnippets",
+    "esbenp.prettier-vscode",
+    "capaj.vscode-exports-autocomplete",
+    "gottfired.css2react",
+    "angryobject.react-pure-to-class-vscode",
+    "pflannery.vscode-versionlens",
+    "richie5um2.vscode-sort-json",
+    "wix.vscode-import-cost",
+    "jpoissonnier.vscode-styled-components",
+    "dbaeumer.vscode-eslint",
+    "xabikos.JavaScriptSnippets",
+    "mariusschulz.yarn-lock-syntax",
+    "lxspandora.vscode-styled-components-snippets",
+    "paulmolluzzo.convert-css-in-js",
+    "bierner.lit-html",
+    "dsznajder.es7-react-js-snippets",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "eg2.vscode-npm-script",
+    "firsttris.vscode-jest-runner",
+    "herrmannplatz.npm-dependency-links",
+    "howardzuo.vscode-npm-dependency",
+    "juliensanmartin.vscode-depcheck",
+    "ms-vscode.typescript-javascript-grammar",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "pmneo.tsimporter",
+    "rbbit.typescript-hero",
+    "sburg.vscode-javascript-booster",
+    "steoates.autoimport",
+    "stringham.move-ts",
+    "quicktype.quicktype",
+    "jasonnutter.search-node-modules",
+    "andys8.jest-snippets",
+    "Orta.vscode-jest"
+  ]
+}

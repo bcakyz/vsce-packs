@@ -1,0 +1,24 @@
+{
+  "name": "python-web-pack",
+  "displayName": "Python Web Pack",
+  "description": "",
+  "publisher": "bcakyz",
+  "icon": "python.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "njpwerner.autodocstring",
+    "ms-python.python",
+    "wholroyd.jinja",
+    "batisteo.vscode-django",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "KevinRose.vsc-python-indent",
+    "donjayamanne.python-environment-manager",
+    "dongli.python-preview"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "base-need-pack",
+    "displayName": "base need pack",
+    "description": "",
+    "icon": "image/base.png",
+    "version": "0.0.2",
+    "publisher": "bcakyz",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "MS-vsliveshare.vsliveshare",
+        "ritwickdey.LiveServer",
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "HookyQR.beautify",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "naumovs.color-highlight",
+        "TabNine.tabnine-vscode",
+        "Zignd.html-css-class-completion",
+        "yzhang.markdown-all-in-one",
+        "alefragnani.project-manager",
+        "zhuangtongfa.material-theme",
+        "ajshortt.tokyo-hack",
+        "PKief.material-icon-theme",
+        "ElAnandKumar.el-vsc-product-icon-theme",
+        "msjsdiag.debugger-for-chrome",
+        "aaron-bond.better-comments"
+    ]
+}

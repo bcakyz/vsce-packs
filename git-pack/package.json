@@ -1,0 +1,26 @@
+{
+  "name": "git-pack",
+  "displayName": "Git Pack",
+  "description": "",
+  "publisher": "bcakyz",
+  "version": "0.0.1",
+  "icon": "image/git.png",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "donjayamanne.githistory",
+    "alefragnani.project-manager",
+    "eamodio.gitlens",
+    "ziyasal.vscode-open-in-github",
+    "GitHub.vscode-pull-request-github",
+    "KnisterPeter.vscode-github",
+    "arturock.gitstash",
+    "codezombiech.gitignore",
+    "fatihacet.gitlab-workflow",
+    "waderyan.gitblame"
+  ]
+}
